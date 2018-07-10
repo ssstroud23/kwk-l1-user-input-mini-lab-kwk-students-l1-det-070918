@@ -17,7 +17,9 @@ puts "I would like to stay in a #{stay}"
 # Lastly, puts it all back by interpolating these values in a string.
 
 puts "What would you like to eat?"
-eat = gets.chomp.capitalize
+eat = gets.chomp
 puts "I would like to eat #{eat}"
-
+puts "How many nights are you staying?"
+staying = gets.chomp
+puts "I would like to stay 4 #{nights}"
 
