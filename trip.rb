@@ -20,7 +20,7 @@ puts "What would you like to eat?"
 eat = gets.chomp
 puts "I would like to eat #{eat}"
 puts "How many nights are you staying?"
-staying = gets.chomp
+nights = gets.chomp
 puts "I would like to stay 4 #{nights}"
 
 puts "I would like to stay in a #{hotel}, eat #{pizza} and stay 4 #{nights}"
