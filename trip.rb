@@ -23,4 +23,4 @@ puts "How many nights are you staying?"
 nights = gets.chomp
 puts "I would like to stay #{nights} nights"
 
-puts "I would like to stay in a #{stay}, eat #{pizza} and stay 4 #{nights}"
+puts "I would like to stay in a #{stay}, eat #{eat} and stay 4 #{nights}"
